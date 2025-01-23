@@ -451,28 +451,4 @@ if __name__ == "__main__":
     # 保存到新的Excel文件
     output_df.to_excel('processed_output1.xlsx', index=False)
     
-
-   
     
-
-    # 设计实验---
-    # human in the loop
-    # 刚开始agent推理的不对，但是修正，你不对，error rate，修正知识链，然后让多次迭代
-    # base，
-    # 定性，
-    # case study
-    # 消融实验：没有agent，没有图， 
-    # claude 4o
-    # 
-
-
-
-    # 图的结构增强
-    # 
-
-
-    # 训练一个垂类模型，把它套到整个框架，7B左右的模型
-    
-
-
-    # 
